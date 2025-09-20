@@ -140,11 +140,6 @@ This project is a monorepo containing both the frontend and backend code.
   - `/frontend`: Contains all React components, views, and services.
   - **Root**: Contains shared configuration files like `package.json` and `vite.config.js`.
 
------
-
-## 📧 Contact Developer
-
-For questions, support, or feedback, please contact the owner of this repository or via email [therawan.jason@gmail.com](mailto:therawan.jason@gmail.com).
 
 -----
 
