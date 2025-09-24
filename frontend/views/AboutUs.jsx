@@ -82,22 +82,22 @@ const AboutUs = () => {
         <h2 className="text-3xl font-extrabold text-gray-900 mb-8 text-center mt-16">Meet the Developer</h2>
         <div className="max-w-4xl mx-auto text-center">
           <p className="text-gray-700 text-lg leading-relaxed mb-6">
-            PlanIt was designed and developed by a solo developer passionate about productivity and clean design. This application is a testament to the idea that with the right tools, anyone can bring their vision to life.
+            PlanIt was designed and developed by a dedicated group of developers passionate about productivity and clean design. This application is a testament to the idea that with the right tools, a team can bring their vision to life.
           </p>
-          <p className="text-2xl font-bold text-gray-800 mb-6">Jason Therawan</p>
+          <p className="text-2xl font-bold text-gray-800 mb-6">Albert Manuel, Dave Mandas, Hizkia Dean Andreas, Jacky Hertanto</p>
         
           <div className="flex flex-row items-center justify-center space-x-16">
-            <a href="mailto:therawan.jason@gmail.com" className="flex items-center text-gray-600 hover:text-blue-600 transition-colors">
+            <a href="mailto:" className="flex items-center text-gray-600 hover:text-blue-600 transition-colors">
               <Mail size={24} className="mr-3" />
-              <span>therawan.jason@gmail.com</span>
+              <span></span>
             </a>
-            <a href="https://www.linkedin.com/in/JasonTherawan" target="_blank" rel="noopener noreferrer" className="flex items-center text-gray-600 hover:text-blue-600 transition-colors">
+            <a href="https://www.linkedin.com/in/hizkia-andreas" target="_blank" rel="noopener noreferrer" className="flex items-center text-gray-600 hover:text-blue-600 transition-colors">
               <Linkedin size={24} className="mr-3" />
-              <span>JasonTherawan</span>
+              <span>Hizkia Andreas</span>
             </a>
-            <a href="https://github.com/JasonTherawan" target="_blank" rel="noopener noreferrer" className="flex items-center text-gray-600 hover:text-blue-600 transition-colors">
+            <a href="https://github.com/hizkiadean7" target="_blank" rel="noopener noreferrer" className="flex items-center text-gray-600 hover:text-blue-600 transition-colors">
               <Github size={24} className="mr-3" />
-              <span>JasonTherawan</span>
+              <span>Hizkia Andreas</span>
             </a>
           </div>
         </div>
